@@ -18,6 +18,22 @@
 
 - Being able to work effectively with GitHub requires knowing Git basics and being able to operate in both worlds.
 
+# Set up SSH key
+
+- We'll look at how to configure ssh.
+- Recommend to set up an ssh key different from what you use for other servers
+- You can go with or without passphrase - I won't tell.
+
+# Clone repo for tutorial
+
+SSH URL
+- git@github.com:gkthiruvathukal/cybercolombia-se-2021
+
+Non-SSH URL
+- https://github.com/gkthiruvathukal/cybercolombia-se-2021
+
+To see the lecture notes for this tutorial, cat `notes/git.md`
+
 # The Terminal shall set you free
 
 Everything we do in this tutorial will take place at the terminal. You'll come to see the following:
